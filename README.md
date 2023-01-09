@@ -18,8 +18,8 @@
 
 <h3 align="left">Tools :</h3>
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a></p>
-
+</br>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nat1103&show_icons=true&theme=dracula&title_color=ff0000&locale=en" alt="nat1103" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nat1103&show_icons=true&locale=en&layout=compact" alt="nat1103" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nat1103&show_icons=true&locale=en&layout=compact" alt="nat1103" /></p>
 
